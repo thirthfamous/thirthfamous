@@ -3,14 +3,13 @@
 
 - 💻 Experienced in Software Engineering Project since 2017
 - 🕵 The way I code is I always make sure the code is architecturally clean, write the test, secure and SOLID
-- 🔭 I’m currently working on PT Kunci Transformasi Digital as a tech lead (and other roles)
-- 🌱 I’m currently reading a book "The Pragmatic Programmer" and I'm really blown away by it
-- 💻 Even though I know all the sub-field in software engineering technically, my speciality is in backend engineer 
-- 🔍 I'm currently is studying Go and Microservices deeply
+- 🔭 I’m currently working on Flying Cape Technology as a tech lead (and other roles)
+- 💻 Backend Engineer
+- 🔍 Lifetime Learner
 - 👯 I’m looking to collaborate with a buddy that enthusiasts to produce value for the other people maximally
 - 🎓 I am a Master Degree in Information System
 - 📫 You can reach me in my email at fhbluebeast356@gmail.com
-- ⚡ Fun fact: I am a great musician and love to teach
+- ⚡  Building fast scalable system in minimal effort and minimal cost 
 
 ## ✍🏻 Latest Blog Posts
 
